@@ -37,9 +37,11 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacerkraa&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="nace rkraa's top langs"/>
 </p>
 
-
-
-
+  
+ ## my contrubution
+ ![snake gif](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.gif)
+<div> 
+  
 ## Contact Me 
 
 <p align="center">
@@ -58,13 +60,6 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 <a href="https://stackoverflow.com/users/18560794/nacer-kraa">
   <img align="center" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
-  
- ## my repo
- ![snake gif](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.gif)
-<div> 
-  
-  <a href="https://instagram.com/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
-   <a href="https://www.linkedin.com/in/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>

@@ -1,27 +1,15 @@
-## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
-
-<p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20nacer%20kraa%20-KR%20devloper%20software&duration=7000'>
-</p>
-
-<!--
-- I build things in java (or python these days)💚....... .
-
-✨ Highlights ✨
-
-- 🔭 I’m currently study on unversity.
-- 🌱 I’m currently learning machine learning using python.
-- 👯 I’m looking to collaborate on .Net Remoting chat application.
-- 🤔 I’m looking for help with react.
-- 💬 Ask me about spring mvc, java, c#.
-- 📫 How to reach me: nacerkraa@gmail.com.
-- 😄 Pronouns: kaido.
-
+<!-- # This A comment
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
 ## My Coding activities
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa&theme=dark&hide_border=true&border_radius=20&layout=compact" alt="My Waka stats" />
 -->
+
+## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
+
+<p align=center>  
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20nacer%20kraa%20-KR%20devloper%20software&duration=7000'>
+</p>
 
 
 
@@ -38,6 +26,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
+A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
 
 
 ## TECH SKILLS

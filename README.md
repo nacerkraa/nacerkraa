@@ -5,7 +5,7 @@
 </p>
 
 <!--
-- I build things in java (or python these days)💚....... 
+- I build things in java (or python these days)💚....... .
 
 ✨ Highlights ✨
 

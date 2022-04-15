@@ -75,6 +75,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 </a>
   
  ## my repo
+ ![snake gif](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.gif)
 <div> 
   
   <a href="https://instagram.com/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>

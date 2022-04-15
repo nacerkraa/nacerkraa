@@ -80,7 +80,18 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   <a href="https://instagram.com/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
    <a href="https://www.linkedin.com/in/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/julianasinnott/julianasinnott/blob/output/github-contribution-grid-snake.svg)
+  - uses: Platane/snk@v2.0.0-rc.1
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.nacerkraa }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 </div>
 
 <br/>

@@ -12,10 +12,6 @@
 </p>
 
 
-
-A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
-
-
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=nacerkraa1903&color=008080'>
 </strong> </p>

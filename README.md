@@ -75,8 +75,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 </a>
   
  ## my repo
-  
-   ![Snake animation](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.svg)
+
 
 <br/>
 <br/>

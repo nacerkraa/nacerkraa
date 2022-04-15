@@ -39,7 +39,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 </p>
 
   
- ## my contrubution
+ ## my contributions in the last year
  ![snake gif](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.gif)
 <div> 
   

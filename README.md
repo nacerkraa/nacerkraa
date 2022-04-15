@@ -75,7 +75,13 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 </a>
   
  ## my repo
-
+<div> 
+  
+  <a href="https://instagram.com/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
+   <a href="https://www.linkedin.com/in/nacerkraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/julianasinnott/julianasinnott/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <br/>
 <br/>

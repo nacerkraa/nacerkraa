@@ -73,6 +73,10 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 <a href="https://stackoverflow.com/users/18560794/nacer-kraa">
   <img align="center" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
+  
+ ## my repo
+  
+   ![Snake animation](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>

@@ -27,7 +27,7 @@
 A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
 
 <!--
-## TECH SKILLS
+## TECH SKILLS.. 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />

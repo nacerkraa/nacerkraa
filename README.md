@@ -27,8 +27,6 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
-A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
-
 <!--
 ## TECH SKILLS.. 
 <img

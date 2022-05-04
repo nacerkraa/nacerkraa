@@ -10,6 +10,7 @@
 -->
 
 ## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
+A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
 
 
 

@@ -27,12 +27,10 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
-<!--
 ## TECH SKILLS.. 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />
--->
 
 ## Git Stats
 <p align='center'>
@@ -41,10 +39,6 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacerkraa&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="nace rkraa's top langs"/>
 </p>
 
-<!--
- ## my contributions in the last year
- ![snake gif](https://github.com/nacerkraa/nacerkraa/blob/output/github-contribution-grid-snake.gif)
--->
 <div> 
   
 ## Contact Me 

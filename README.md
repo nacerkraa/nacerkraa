@@ -9,8 +9,6 @@
 </p>
 -->
 
-## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
-A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
 
 
 
@@ -18,6 +16,10 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=nacerkraa1903&color=008080'>
 </strong> </p>
+
+## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
+A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
+
 
 ## SCORES & BADGES
 

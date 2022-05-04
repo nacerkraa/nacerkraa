@@ -3,6 +3,11 @@
 ## My Coding Activities
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
 
+## TECH SKILLS.. 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
+/>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa&theme=dark&hide_border=true&border_radius=20&layout=compact" alt="My Waka stats" />
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20nacer%20kraa%20-KR%20devloper%20software&duration=7000'>
@@ -27,10 +32,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
-## TECH SKILLS.. 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
-/>
+
 
 ## Git Stats
 <p align='center'>

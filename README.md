@@ -3,7 +3,7 @@
 ## My Coding Activities
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
 
-## TECH SKILLS.. 
+## TECH SKILLS.. .
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />

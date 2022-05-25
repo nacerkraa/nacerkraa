@@ -14,13 +14,6 @@
 </p>
 -->
 
-<p align='center'>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nacerkraa&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
-</p>
-</b>
-
-
-
 
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=nacerkraa1903&color=008080'>
@@ -39,6 +32,11 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 
 
 ## Git Stats
+<p align='center'>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nacerkraa&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
+</p>
+</b>
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacerkraa&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
 

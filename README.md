@@ -14,6 +14,10 @@
 </p>
 -->
 
+<p align='center'>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MedRedha&background=130F40&border=fff&currStreakNum=fff&ring=7A7ADB&sideNums=fff&dates=d5d5d5&sideLabels=d5d5d5" alt="stats2" />
+</p>
+</b>
 
 
 

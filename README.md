@@ -65,6 +65,16 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 
 </div>
 
+<details>
+  <summary>📫 How to reach me</summary>
+  <p align='center'>
+    <a href='mailto:nacer.kraa@gmail.com'>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    </br>
+  </p>
+</details>
+
 
 <br/>
 <br/>

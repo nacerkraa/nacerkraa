@@ -38,9 +38,9 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 </b>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacerkraa&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacerkraa&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Nacer KRAA   github stars"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacerkraa&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="nace rkraa's top langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacerkraa&langs_count=8&layout=compact&bg_color=130F40&text_color=FFFFFF" alt="nace rkraa's top langs"/>
 </p>
 
 <div> 

@@ -29,9 +29,6 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
-## My Coding Activities
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Git Stats
 <p align='center'>

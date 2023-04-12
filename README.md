@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
-A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
+Hello, I'm a full stack developer with a focus on Reactjs and Laravel. I enjoy working on challenging projects and am always looking for ways to improve my skills. I have experience working in agile environments and am comfortable collaborating with cross-functional teams. When I'm not coding, I enjoy reading about new technologies and spending time with my family.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Git Stats
